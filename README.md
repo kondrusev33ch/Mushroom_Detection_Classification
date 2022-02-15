@@ -2,7 +2,7 @@
 
 **Attention! I don't have any knowledge in mycology, this project was created only for learning purpose, and may contain errors and inaccuracies!**  
 Download dataset [here](https://www.kaggle.com/ilyakondrusevich/mushrooms)  
-Download models and weights [here]()
+Download models and weights [here](https://drive.google.com/drive/folders/1887qYIgO3UxQ4FXk2I4ppHaHWMXZzOXP?usp=sharing)
 
 Of course I could take any already complete dataset from kaggle.  
 But the whole point of this project collect data and make everything work by myself with different models and approaches, with a small amount of data. In other words, it's all about getting knowledge and experience.
