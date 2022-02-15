@@ -1,6 +1,6 @@
 # Mushroom Detection and Classification
 
-**Attention! I don't have any knowledge in mycology, this project was created only for learning purpose, and may contain errors and inaccuracies!**
+**Attention! I don't have any knowledge in mycology, this project was created only for learning purpose, and may contain errors and inaccuracies!**  
 Download dataset [here](https://www.kaggle.com/ilyakondrusevich/mushrooms)  
 Download models and weights [here]()
 
